@@ -1,0 +1,5 @@
+# 忽略任何目录下名为 build 的文件夹
+node_modules/**/*.*
+
+# 忽略 question/ 目录及其所有子目录下的 .txt 文件
+question/**/*.txt
