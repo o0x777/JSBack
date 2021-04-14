@@ -1,0 +1,1 @@
+https://sk.open.com.cn/stuspace-auth/#/login 找到密码算法试试能不能改写他的算法 用JS调试工具运行
