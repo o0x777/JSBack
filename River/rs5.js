@@ -1,7 +1,25 @@
-window = {};
-document = {
-    scripts: [0, 1]
-};
+function WindowProperties() {
+    return "function WindowProperties() { [native code] }"
+}
+function Window() {
+    this.PERSISTENT = 1;
+    this.TEMPORARY = 0;
+    return "function Window() { [native code] }"
+}
+Window.prototype = WindowProperties;
+Window.prototype.constructor = Window;
+
+function Document() {
+    Document.prototype.toString = function () {return "function Document() { [native code] }"}
+}
+
+Document.prototype.constructor = Object;
+
+document = new Document();
+
+window = new Window();
+document.scripts = [0, 1];
+window.document = document
 function vmProxy(obj){
     var handler = {
         get: function(target, property, receiver){

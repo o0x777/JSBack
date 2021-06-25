@@ -1,8 +1,0 @@
-{
-  "name": "JSBack",
-  "version": "1.0.0",
-  "dependencies": {},
-  "devDependencies": {
-    "vm2": "^3.9.3"
-  }
-}

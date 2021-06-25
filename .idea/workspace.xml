@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80659621-7aae-4cb7-876a-7f48d04a1b45" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/100lian/paipaidai.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lianshou/389qipai_0.5.js" afterDir="false" />
+    <list default="true" id="f80fd64e-6899-4be0-876d-6a681c1293a1" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lianshou/连连xiaohao.js" beforeDir="false" afterPath="$PROJECT_DIR$/lianshou/lianlianxiaohao.js" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/lianshou/连连xiaohao.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> 58a49d29809a3a416605ba639af4d1a312ac3826
+      <change beforePath="$PROJECT_DIR$/River/rs5.js" beforeDir="false" afterPath="$PROJECT_DIR$/River/rs5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/window.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/window.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -27,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1qhzKMFLyPyOZUnmnjYbAtmlOc8" />
+  <component name="ProjectId" id="1uFOphDifUYoHFeYFiNowsuZrnJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,92 +38,61 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-<<<<<<< HEAD
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager" selected="Node.js.lianlianxiaohao.js">
-=======
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.3" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="D:\IDE\WebStorm 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/question" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Node.js.连连xiaohao.js">
->>>>>>> 58a49d29809a3a416605ba639af4d1a312ac3826
-    <configuration name="helloworld.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test/helloworld.js" working-dir="$PROJECT_DIR$/Test">
+  <component name="RunManager" selected="Node.js.rs5.js">
+    <configuration name="Document.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/xpVm/Document.js" working-dir="$PROJECT_DIR$/xpVm">
       <method v="2" />
     </configuration>
-    <configuration name="helloworld.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../JSBack__cc/Test/helloworld.js" working-dir="$PROJECT_DIR$/../JSBack__cc/Test">
+    <configuration name="Navigator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/xpVm/Navigator.js" working-dir="$PROJECT_DIR$/xpVm">
       <method v="2" />
     </configuration>
-    <configuration name="lianlianxiaohao.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lianshou/lianlianxiaohao.js" working-dir="$PROJECT_DIR$/lianshou">
+    <configuration name="hubei.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/River/hubei.js" working-dir="$PROJECT_DIR$/River">
       <method v="2" />
     </configuration>
-    <configuration name="nodejs" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../../Package/nodejs/node" working-dir="$PROJECT_DIR$">
+    <configuration name="node" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="wcb.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="/media/zhaoxp/zhaoxp/Code/JavaScript/JSBack/lianshou/wcb.js" working-dir="/media/zhaoxp/zhaoxp/Code/JavaScript/JSBack/lianshou">
+    <configuration name="rs5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/River/rs5.js" working-dir="$PROJECT_DIR$/River">
       <method v="2" />
     </configuration>
-    <configuration name="webpack_.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="/media/zhaoxp/zhaoxp/Code/JavaScript/JSBack/lianshou/webpack_.js" working-dir="/media/zhaoxp/zhaoxp/Code/JavaScript/JSBack/lianshou">
-      <method v="2" />
-    </configuration>
-    <configuration name="连连xiaohao.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lianshou/连连xiaohao.js" working-dir="$PROJECT_DIR$/lianshou">
+    <configuration name="window.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/window.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.nodejs" />
-      <item itemvalue="Node.js.helloworld.js" />
-      <item itemvalue="Node.js.helloworld.js (1)" />
-<<<<<<< HEAD
-      <item itemvalue="Node.js.lianlianxiaohao.js" />
+      <item itemvalue="Node.js.node" />
+      <item itemvalue="Node.js.window.js" />
+      <item itemvalue="Node.js.Navigator.js" />
+      <item itemvalue="Node.js.Document.js" />
+      <item itemvalue="Node.js.rs5.js" />
+      <item itemvalue="Node.js.hubei.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.lianlianxiaohao.js" />
-=======
-      <item itemvalue="Node.js.wcb.js" />
-      <item itemvalue="Node.js.webpack_.js" />
-      <item itemvalue="Node.js.连连xiaohao.js" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.连连xiaohao.js" />
-        <item itemvalue="Node.js.webpack_.js" />
-        <item itemvalue="Node.js.wcb.js" />
->>>>>>> 58a49d29809a3a416605ba639af4d1a312ac3826
-        <item itemvalue="Node.js.helloworld.js (1)" />
+        <item itemvalue="Node.js.rs5.js" />
+        <item itemvalue="Node.js.hubei.js" />
+        <item itemvalue="Node.js.Document.js" />
+        <item itemvalue="Node.js.Navigator.js" />
+        <item itemvalue="Node.js.window.js" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="80659621-7aae-4cb7-876a-7f48d04a1b45" name="Default Changelist" comment="" />
-      <created>1617546545402</created>
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f80fd64e-6899-4be0-876d-6a681c1293a1" name="默认变更列表" comment="" />
+      <created>1624258057756</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617546545402</updated>
-      <workItem from="1617546547471" duration="550000" />
-      <workItem from="1617547106848" duration="455000" />
-      <workItem from="1617715285109" duration="995000" />
-<<<<<<< HEAD
-      <workItem from="1617716366587" duration="30000" />
-      <workItem from="1617762459591" duration="44000" />
-      <workItem from="1617762513165" duration="4140000" />
-      <workItem from="1618360396786" duration="4000" />
-=======
-      <workItem from="1617716366587" duration="2531000" />
->>>>>>> 58a49d29809a3a416605ba639af4d1a312ac3826
+      <updated>1624258057756</updated>
+      <workItem from="1624258062084" duration="24000" />
+      <workItem from="1624258097640" duration="84000" />
+      <workItem from="1624258193228" duration="158000" />
+      <workItem from="1624266135343" duration="33843000" />
     </task>
     <servers />
   </component>
@@ -139,6 +109,17 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lianshou/douyin_web.js</url>
+          <line>292</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
